@@ -114,6 +114,17 @@ background-color: #1e293B;
  
 }
 
+#acertos {
+  text-align: center;
+  background-color: #35e6da;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 12px;
+}
+
+
 input{
   all: unset;
   border: 1px solid #94a3b8;
@@ -138,18 +149,4 @@ height: 10px;
 background-color: #35e6da;
 border-radius: 30%;
 
-}
-
-
-
-
-#acertos {
-  text-align: center;
-  background-color: #35e6da;
-
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  padding: 12px;
 }
