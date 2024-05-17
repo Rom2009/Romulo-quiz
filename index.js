@@ -3,7 +3,7 @@ const perguntas = [
       pergunta: "In the pizza day, who made the best pizza?",
       respostas: [
         "Ivan",
-        "Beckie",
+        "Bex",
         "Liv"
       ],
       correta: 0,
@@ -27,7 +27,7 @@ const perguntas = [
       correta: 2,
     },
     {
-      pergunta: "Second Shopia, What is the best drink?",
+      pergunta: "What is Sophia's favourite drink?",
       respostas: [
         "Coffee",
         "Tea",
