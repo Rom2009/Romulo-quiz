@@ -1,6 +1,8 @@
-# Romulo-quiz
+# Sophia-Quiz
 
-## tecnologia utilizadas
+This project is a quiz that reveals how many question you got right:
+
+
 
 - HTML
 - CSS
